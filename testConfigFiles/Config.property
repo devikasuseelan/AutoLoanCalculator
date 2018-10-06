@@ -1,0 +1,3 @@
+URL = https://www.autotrader.com
+ChromeDriver = ./ChromeDriver/chromedriver.exe
+ExcelPath = ./ExcelData/TestData.xlsx
